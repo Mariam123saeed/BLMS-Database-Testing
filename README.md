@@ -1,4 +1,4 @@
-# 🏦 Banking Loan Management System (BLMS) – Database Testing
+# Banking Loan Management System (BLMS) – Database Testing
 
 ## 📌 Project Overview
 
@@ -149,9 +149,8 @@ The team used **Jira** for:
 
 ### Jira Project
 
-`JIRA_PROJECT_LINK`
+`[JIRA_PROJECT_LINK](https://fatmaaldardery.atlassian.net/jira/software/projects/BLMS/boards/101/backlog?atlOrigin=eyJpIjoiZjM3NzY5YWI1MjgxNGZmNzg4NGI1NDg5NTk4NDIxNmEiLCJwIjoiaiJ9)`
 
-> Jira access may require authorization.
 
 ---
 
