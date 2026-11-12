@@ -1,6 +1,6 @@
 # Banking Loan Management System (BLMS) – Database Testing
 
-## 📌 Project Overview
+##  Project Overview
 
 **BLMS (Banking Loan Management System)** is a team-based **Database Testing project** focused on validating the database layer of a banking system.
 
@@ -19,7 +19,7 @@ The project covers **data integrity, database constraints, relationships, busine
 
 ---
 
-## 🎯 Testing Scope
+##  Testing Scope
 
 ### In Scope
 
@@ -46,7 +46,7 @@ The project covers **data integrity, database constraints, relationships, busine
 
 ---
 
-# 🗄️ Database – MySQL
+#  Database – MySQL
 
 **MySQL** was used as the main **Relational Database Management System (RDBMS)**.
 
@@ -80,7 +80,7 @@ Official documentation:
 
 ---
 
-# 🖥️ DBeaver Community Edition
+# DBeaver Community Edition
 
 **DBeaver CE** was used as the **GUI database client** for working with MySQL.
 
@@ -107,7 +107,7 @@ Official website:
 
 ---
 
-# 🧪 Testing Approach
+#  Testing Approach
 
 The project included:
 
@@ -135,7 +135,7 @@ The project included:
 
 ---
 
-# 🐞 Jira – Test Management & Bug Tracking
+# Jira – Test Management & Bug Tracking
 
 The team used **Jira** for:
 
@@ -154,7 +154,7 @@ The team used **Jira** for:
 
 ---
 
-# 📄 Project Deliverables
+# Project Deliverables
 
 | Deliverable         | Tool            |
 | ------------------- | --------------- |
@@ -169,7 +169,7 @@ The team used **Jira** for:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 * **MySQL** – Database Management & Testing
 * **DBeaver CE** – Database GUI / SQL Client
@@ -181,7 +181,7 @@ The team used **Jira** for:
 
 ---
 
-# 📊 Project Summary
+# Project Summary
 
 | Item                 | Details          |
 | -------------------- | ---------------- |
@@ -199,7 +199,7 @@ The team used **Jira** for:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 BLMS-Database-Testing/
@@ -227,7 +227,7 @@ BLMS-Database-Testing/
 
 ---
 
-# 👩‍💻 My Role
+# My Role
 
 **QA / Database Tester**
 
